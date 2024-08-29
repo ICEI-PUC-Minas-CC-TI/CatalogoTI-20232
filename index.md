@@ -1,0 +1,271 @@
+# Catálogo de Trabalhos Interdisciplinares
+
+## Índice
+- [ti2](#ti2)
+- [ti2](#ti2)
+- [ti2](#ti2)
+- [ti2](#ti2)
+- [ti2](#ti2)
+- [ti2](#ti2)
+- [ti2](#ti2)
+- [ti2](#ti2)
+- [ti2](#ti2)
+- [ti2](#ti2)
+- [ti2](#ti2)
+- [ti2](#ti2)
+- [ti2](#ti2)
+- [ti2](#ti2)
+- [ti2](#ti2)
+- [ti2](#ti2)
+- [ti2](#ti2)
+- [ti2](#ti2)
+- [ti2](#ti2)
+- [ti2](#ti2)
+- [ti2](#ti2)
+- [ti2](#ti2)
+- [ti2](#ti2)
+- [ti2](#ti2)
+- [ti2](#ti2)
+- [ti2](#ti2)
+- [ti2](#ti2)
+- [ti2](#ti2)
+- [ti2](#ti2)
+- [ti2](#ti2)
+- [ti2](#ti2)
+- [ti2](#ti2)
+- [ti2](#ti2)
+
+
+## ti2
+| TITULO | CODIGO | DATA | ALUNOS | PROFESSORES | Aprovado? | Melhor trabalho? | Patente? | Registro de Software? | Negócio? | CNPJ Parceiro |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **EduJovem** | https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-2023-2-ti2-g13-edujovem | 2023-12-12 | Matheus Fagundes Araujo, Rodrigo Drummond, Thomas Neuenschwander, Vinicios Dutra Goddard | Sandro Jerônimo de Almeida, Marcos Paulo | <ul><li> [x] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> | |
+
+[↑ topo](#índice)
+
+## ti2
+| TITULO | CODIGO | DATA | ALUNOS | PROFESSORES | Aprovado? | Melhor trabalho? | Patente? | Registro de Software? | Negócio? | CNPJ Parceiro |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Tracker.ly** | https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-2023-2-ti2-g06-tracker-ly | 2023-12-12 | Fernanda Rodrigues Dias Mariano, Gabriela Lacerda Muniz, Rafael Oliveira Lima Peixoto, Catarina França de Moura Castro | Max do Val Machado, Luciana Mara Freitas Diniz, Josiane da Costa Vieira Rezende | <ul><li> [x] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> | |
+
+[↑ topo](#índice)
+
+## ti2
+| TITULO | CODIGO | DATA | ALUNOS | PROFESSORES | Aprovado? | Melhor trabalho? | Patente? | Registro de Software? | Negócio? | CNPJ Parceiro |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Estoquemaster** | https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-2023-2-ti2-g10-estoquemaster | 2023-12-12 | Antonio Soares Couto Neto, Tulio Gomes Braga, Yago Almeida Melo, Ricardo Soares Pereira da Gama Cerqueira | Marco Paulo Soares Gomes, Sandro Jerônimo de Almeida | <ul><li> [x] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> | |
+
+[↑ topo](#índice)
+
+## ti2
+| TITULO | CODIGO | DATA | ALUNOS | PROFESSORES | Aprovado? | Melhor trabalho? | Patente? | Registro de Software? | Negócio? | CNPJ Parceiro |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Encaramelados** | https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-2023-2-ti2-G01-encaramelados | 2023-12-13 | Iago Adrien de Pula Simoes, Letícia de Oliveira Lopes, Maria Cândida Torres Ferreira Costa Guerra, Thales Matheus Mendonça Santos | Max do Val Machado, Luciana Mara Freitas Diniz, Josiane da Costa Vieira Rezende | <ul><li> [x] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> | |
+| **Me gusta** | https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-2023-2-ti2-g01-megusta | 2023-12-12 | Lívia Alves Ferreira, João Pedro de Melo Murta, Thiago Augusto Demeto Leão, Lucas Felipe Caldeira Carvalho | Max do Val Machado, Wladmir Cardoso Bradao, Sandro Jerônimo de Almeida | <ul><li> [x] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> | |
+
+[↑ topo](#índice)
+
+## ti2
+| TITULO | CODIGO | DATA | ALUNOS | PROFESSORES | Aprovado? | Melhor trabalho? | Patente? | Registro de Software? | Negócio? | CNPJ Parceiro |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **DANT** | https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-2023-2-ti2-g08-dant | 2023-12-12 | Arthur Oliveira Santos, Diego Pereira Maia, Henrique Silverio Nahim, Luis Felipe Lemos | Amália Soares Vieira de Vasconcelos, Luciana Mara Freitas Diniz, Max do Val Machado | <ul><li> [x] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> | |
+
+[↑ topo](#índice)
+
+## ti2
+| TITULO | CODIGO | DATA | ALUNOS | PROFESSORES | Aprovado? | Melhor trabalho? | Patente? | Registro de Software? | Negócio? | CNPJ Parceiro |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Financiart** | https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-2023-2-ti2-G03-Financiart | 2023-12-12 | Vitor Manoel Silva, Pedro Augusto Silva Ferreira, Marcos Paulo Laine, Higor Fischer de Paula Lopes | Max do Val Machado,  | <ul><li> [x] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> | |
+
+[↑ topo](#índice)
+
+## ti2
+| TITULO | CODIGO | DATA | ALUNOS | PROFESSORES | Aprovado? | Melhor trabalho? | Patente? | Registro de Software? | Negócio? | CNPJ Parceiro |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Busy** | https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-2023-2-ti2-g11-busy | 2023-12-12 | Arthur de Sá Braz de Matos, Gabriel Araújo Campos Silva, Célia Regina Perdigão, Joshua Victor | Sandro Jerônio de Almeida, Marco Paulo Soares Gomes | <ul><li> [x] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> | |
+
+[↑ topo](#índice)
+
+## ti2
+| TITULO | CODIGO | DATA | ALUNOS | PROFESSORES | Aprovado? | Melhor trabalho? | Patente? | Registro de Software? | Negócio? | CNPJ Parceiro |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **TaskTracker** | https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-2023-2-ti2-g37-tasktracker | 2023-12-12 | Alaôr Luíz de Mendonça Neto, Bruno Hermeto Guimarães, Mateus Azevedo Araújo, Miguel Leocádio Nascimento | Daniel de Oliveira Capanema, Rommel Vieira Carneiro | <ul><li> [x] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> | |
+
+[↑ topo](#índice)
+
+## ti2
+| TITULO | CODIGO | DATA | ALUNOS | PROFESSORES | Aprovado? | Melhor trabalho? | Patente? | Registro de Software? | Negócio? | CNPJ Parceiro |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Cinemafica** | https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-2023-2-ti2-g25-cinemafica | 2023-12-12 | Ana Cristina Martins Silva, Kênia Teixeira de Paula Costa, Letícia Azevedo Cota Barbosa, Manoella Santos Diniz | Amália Soares Vieira Vasconcelos, Wladmir Cardoso Brandao | <ul><li> [x] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> | |
+
+[↑ topo](#índice)
+
+## ti2
+| TITULO | CODIGO | DATA | ALUNOS | PROFESSORES | Aprovado? | Melhor trabalho? | Patente? | Registro de Software? | Negócio? | CNPJ Parceiro |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Old Fashioned** | https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-2023-2-ti2-g09-oldfashioned | 2023-12-12 | Lucas Alkmim Barros, Sophia Carraza Ventorim de Sousa, Livia Câmara Xavier, Fábio Antônio Caldeira Andrade | Sandro Jerônimo de Almeida, Marco Paulo Soares Gomes | <ul><li> [x] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> | |
+
+[↑ topo](#índice)
+
+## ti2
+| TITULO | CODIGO | DATA | ALUNOS | PROFESSORES | Aprovado? | Melhor trabalho? | Patente? | Registro de Software? | Negócio? | CNPJ Parceiro |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **PCBuilderIA** | https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-2023-2-ti2-g18-pcbuilderia | 2023-12-12 | Ângelo Gabriel de Freitas Marques, Hanna Rodrigues Chaves, Pedro Augusto Portes Araújo Cattoni, Thiago Cedro Silva de Souza | Rodrigo Baroni de Carvalho, Ilo Amy Saldanha Rivero | <ul><li> [x] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> | |
+
+[↑ topo](#índice)
+
+## ti2
+| TITULO | CODIGO | DATA | ALUNOS | PROFESSORES | Aprovado? | Melhor trabalho? | Patente? | Registro de Software? | Negócio? | CNPJ Parceiro |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **SportsNow** | https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-2023-2-ti2-g40-esportnow | 2023-12-12 | Gabriel Felipe Quaresma de Oliveira, Pedro Rodrigues Alves, Raphael Arnault Rossi | Daniel Oliveira Capanema, Rommel Vieira Carneiro | <ul><li> [x] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> | |
+
+[↑ topo](#índice)
+
+## ti2
+| TITULO | CODIGO | DATA | ALUNOS | PROFESSORES | Aprovado? | Melhor trabalho? | Patente? | Registro de Software? | Negócio? | CNPJ Parceiro |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Cinecatalog** | https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-2023-2-ti2-g36-cinecatalog | 2023-12-13 | Guilherme Neves Pimenta Moreira, Áulus Arcanjo Alves Batista, Lucas Ferreira Souza | Daniel Oliveira Capanema, Rommel Vieira Carneira | <ul><li> [x] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> | |
+
+[↑ topo](#índice)
+
+## ti2
+| TITULO | CODIGO | DATA | ALUNOS | PROFESSORES | Aprovado? | Melhor trabalho? | Patente? | Registro de Software? | Negócio? | CNPJ Parceiro |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Sports-match** | https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-2023-2-ti2-G02-sportsmatch | 2023-12-13 | Rodrigo Glória, Fernando Valle Gusmão, Kaio Henrique Santos, Pedro Augusto | Max Val Machado, Luciana Mara Freitas Diniz, Josiane Costa Vieira Rezende | <ul><li> [x] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> | |
+| **GreenLeaf** | https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-2023-2-ti2-g02-cuidadodeplantas | 2023-12-12 | Gabriel Martins Rajão, Luiza Dias Corteletti, Diego Marchioni Alves dos Santos, Daniel Valadares Souza | Wladmir Cardoso Brandao, Max do Val Machado, Sandro Jerônimo de Almeida | <ul><li> [x] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> | |
+
+[↑ topo](#índice)
+
+## ti2
+| TITULO | CODIGO | DATA | ALUNOS | PROFESSORES | Aprovado? | Melhor trabalho? | Patente? | Registro de Software? | Negócio? | CNPJ Parceiro |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **VamosSair** | https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-2023-2-ti2-g16-vamossair | 2023-12-12 | Thiago Rezende Aguiar, Luigi Louback de Oliveira, Eduardo Araújo Valadares Silva, Gabriel Drumond Malta de Souza | Sandro Jerônimo de Almeida, Marco Paulo Soares Gomes | <ul><li> [x] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> | |
+
+[↑ topo](#índice)
+
+## ti2
+| TITULO | CODIGO | DATA | ALUNOS | PROFESSORES | Aprovado? | Melhor trabalho? | Patente? | Registro de Software? | Negócio? | CNPJ Parceiro |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **iWork** | https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-2023-2-ti2-g28-iwork | 2023-12-12 | Gabriel Jota Lizardo, Henrique Oliveira da Cunha Franco, Guilherme Oliveira de Rodrigues, Larissa da Silva Souza | Wladmir Cardoso Brandao, Amália Soares Vieira de Vasconcelos | <ul><li> [x] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> | |
+
+[↑ topo](#índice)
+
+## ti2
+| TITULO | CODIGO | DATA | ALUNOS | PROFESSORES | Aprovado? | Melhor trabalho? | Patente? | Registro de Software? | Negócio? | CNPJ Parceiro |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Partida Dos Campeoes** | https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-2023-2-ti2-g24-partidadoscampeoes | 2023-12-12 | Caio Pedersoli Diniz, Lucas Delgado Rocha, Mateus Soares Gatti Vasconcellos | Rodrigo Baroni de Carvalho, Ilo Amy Saldanha Riveiro | <ul><li> [x] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> | |
+
+[↑ topo](#índice)
+
+## ti2
+| TITULO | CODIGO | DATA | ALUNOS | PROFESSORES | Aprovado? | Melhor trabalho? | Patente? | Registro de Software? | Negócio? | CNPJ Parceiro |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Learnify** | https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-2023-2-ti2-g39-learnify | 2023-12-12 | Paulo Henrique Menezes, Tiago Lascasas, Lucas Perreira Rangel, Henrique Resende Lara | Daniel Oliveira Campanema, Rommel Vieira Carneiro | <ul><li> [x] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> | |
+
+[↑ topo](#índice)
+
+## ti2
+| TITULO | CODIGO | DATA | ALUNOS | PROFESSORES | Aprovado? | Melhor trabalho? | Patente? | Registro de Software? | Negócio? | CNPJ Parceiro |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **DivergentMindverse** | https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-2023-2-ti2-g12-divergentmindvrs | 2023-12-12 | Matheus Henrique Gonçalves, Nagib Alexandre Verly Borjaili, Pedro Felipe Martins Oliveira, Suzane Lemos de Lima | Marco Paulo Soares Gomes, Sandro Jerônimo de Almeida | <ul><li> [x] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> | |
+
+[↑ topo](#índice)
+
+## ti2
+| TITULO | CODIGO | DATA | ALUNOS | PROFESSORES | Aprovado? | Melhor trabalho? | Patente? | Registro de Software? | Negócio? | CNPJ Parceiro |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Fin Manage** | https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-2023-2-ti2-g04-finmanager | 2023-12-12 | Guilherme Gomes de Brites, João Lucas Azeredo Coutinho Curi, João Madeira Carneiro Braga de Freitas, Arthur Candian | Max do Val Machado, Luciana Mara Freitas Diniz, Josiane da Costa Vieira Rezende | <ul><li> [x] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> | |
+| **Guardian Angel - Segurança Coletiva no Meio Urbano** | https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-2023-2-ti2-g04-guardianangel | 2023-12-12 | Arthur Leite Setragni, Domynic Barros Lima, Gustavo Sales Santos, Juan Pablo Ramos | Max do Val Machado, Sandro Jerônimo de Almeida, Wladmir Cardoso Brandão | <ul><li> [x] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> | |
+
+[↑ topo](#índice)
+
+## ti2
+| TITULO | CODIGO | DATA | ALUNOS | PROFESSORES | Aprovado? | Melhor trabalho? | Patente? | Registro de Software? | Negócio? | CNPJ Parceiro |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Bomba Certa** | https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-2023-2-ti2-g05-bombacerta | 2023-12-12 | Ana Fernanda Souza Cancado, Julia Pinheiro Roque, Gabriel Rangel Gontijo, Luiz Gabriel Milione Assis | Max do Val Machado, Luciana Mara Freitas Diniz, Josiane da Costa Vieira Rezende | <ul><li> [x] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> | |
+
+[↑ topo](#índice)
+
+## ti2
+| TITULO | CODIGO | DATA | ALUNOS | PROFESSORES | Aprovado? | Melhor trabalho? | Patente? | Registro de Software? | Negócio? | CNPJ Parceiro |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Helppets** | https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-2023-2-ti2-g30-helppets | 2023-12-12 | Arthur Braga de Campos Tinoco, Júlia Rodrigues Vasconcellos Melo, Mateus Henrique Duarte Silva, Matheus Rodrigues Bastos Aguiar | Cardoso Brandao Wladmir, Amália Soares Vieira de Vasconcelos | <ul><li> [x] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> | |
+
+[↑ topo](#índice)
+
+## ti2
+| TITULO | CODIGO | DATA | ALUNOS | PROFESSORES | Aprovado? | Melhor trabalho? | Patente? | Registro de Software? | Negócio? | CNPJ Parceiro |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Matemagica** | https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-2023-2-ti2-g15-matemagica | 2023-12-12 | Arthur Miguel Vieira Mapa, Cecília Fernandes Silva Costa, Clara Araújo Franco, Izabella Romano Bezerra Seabra | Sandro Jerônimo de Almeida, Marco Paulo Soares Gomes | <ul><li> [x] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> | |
+
+[↑ topo](#índice)
+
+## ti2
+| TITULO | CODIGO | DATA | ALUNOS | PROFESSORES | Aprovado? | Melhor trabalho? | Patente? | Registro de Software? | Negócio? | CNPJ Parceiro |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Tune Rater** | https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-2023-2-ti2-g27-tunerater | 2023-12-12 | Luisa Clara de Paula Lara da Silva, Vitor Dias de Britto Militão, Vitor Lúcio de Oliveira, Yasmin Cassemiro Viegas | Amália Soares Vieira de Vasconcelos, Wladmir Cardoso Brandao | <ul><li> [x] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> | |
+
+[↑ topo](#índice)
+
+## ti2
+| TITULO | CODIGO | DATA | ALUNOS | PROFESSORES | Aprovado? | Melhor trabalho? | Patente? | Registro de Software? | Negócio? | CNPJ Parceiro |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **HyperFantasy** | https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-2023-2-ti2-g17-hyperfantasy | 2023-12-12 | João Vítor de Freitas Scarlatelli, Laura Caetano Costa, Victor Ferraz de Moraes, Vitor de Meira Gomes | Ilo Amy Saldanha Rivero, Rodrigo Baroni de Carvalho | <ul><li> [x] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> | |
+
+[↑ topo](#índice)
+
+## ti2
+| TITULO | CODIGO | DATA | ALUNOS | PROFESSORES | Aprovado? | Melhor trabalho? | Patente? | Registro de Software? | Negócio? | CNPJ Parceiro |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **BeHealthy** | https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-2023-2-ti2-g33-behealthy | 2023-12-12 | Caio De Castro Notini | Rommel Vieira Carneiro, Daniel Oliveira Capanema | <ul><li> [x] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> | |
+
+[↑ topo](#índice)
+
+## ti2
+| TITULO | CODIGO | DATA | ALUNOS | PROFESSORES | Aprovado? | Melhor trabalho? | Patente? | Registro de Software? | Negócio? | CNPJ Parceiro |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Pet Gets** | https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-2023-2-ti2-g07-petgets | 2023-12-12 | João Pedro de Meireles Alves, Bernardo Augusto Amorim Vieira, Paulo Henrique Braga Pessoa, Vítor Digenova Stoppa Lana | Max do Val Machado, Luciana Mara Freitas Diniz, Josiane da Costa Vieira Rezende | <ul><li> [x] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> | |
+
+[↑ topo](#índice)
+
+## ti2
+| TITULO | CODIGO | DATA | ALUNOS | PROFESSORES | Aprovado? | Melhor trabalho? | Patente? | Registro de Software? | Negócio? | CNPJ Parceiro |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Perifinder** | https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-2023-2-ti2-g35-perifinder | 2023-12-12 | Andre Mendes Rodrigues, Arthur Martinho Medeiros Oliveira, Daniel Salgado Magalhães, Gabriel Henrique Vieira de Oliveira | Daniel Oliveira Capanema, Rommel Vieira Carneiro | <ul><li> [x] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> | |
+
+[↑ topo](#índice)
+
+## ti2
+| TITULO | CODIGO | DATA | ALUNOS | PROFESSORES | Aprovado? | Melhor trabalho? | Patente? | Registro de Software? | Negócio? | CNPJ Parceiro |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Speed Fanatic** | https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-2023-2-ti2-g26-speedfanatic | 2023-12-12 | Pedro Marçal Lima, Pedro Ribeiro Maia, Diego Polanski de Freitas Vieira, Guilherme de Almeida Santos | Amália Soares Vieira de Vasconcelos, Wladmir Cardoso Brandão | <ul><li> [x] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> | |
+
+[↑ topo](#índice)
+
+## ti2
+| TITULO | CODIGO | DATA | ALUNOS | PROFESSORES | Aprovado? | Melhor trabalho? | Patente? | Registro de Software? | Negócio? | CNPJ Parceiro |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **YourShelf** | https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-2023-2-ti2-g23-yourshelf | 2023-12-12 | Lucas Viana  Ferreira, Joao Vitor Mendes Moreira, Pedro Henrique Oliveira Chaves, Vitoria Simil Araujo | Ilo Amy Saldanha Rivero, Rodrigo Baroni de Carvalho | <ul><li> [x] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> | |
+
+[↑ topo](#índice)
+
+## ti2
+| TITULO | CODIGO | DATA | ALUNOS | PROFESSORES | Aprovado? | Melhor trabalho? | Patente? | Registro de Software? | Negócio? | CNPJ Parceiro |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **PC-Masters** | https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-2023-2-ti2-g29-pcmaster | 2023-12-12 | Arthur Alves Menezes, Luís Augusto Lima de Oliveira, Mateus Fernandes Barbosa, Samuel Horta de Faria | Wladmir Cardoso Brandao, Amália Soares Vieira de Vasconcelos | <ul><li> [x] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> | |
+
+[↑ topo](#índice)
+
+## ti2
+| TITULO | CODIGO | DATA | ALUNOS | PROFESSORES | Aprovado? | Melhor trabalho? | Patente? | Registro de Software? | Negócio? | CNPJ Parceiro |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Neuronerds** | https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-2023-2-ti2-g32-neuronerds | 2023-12-16 | Breno Veloso Eboli, Gabriel de Cortez Mourão, Gabriel Samarane Ribeiro, Tales Rocha Moreira | Wladmir Cardoso Brandao, Amália Soares Veira de Vasconcelos | <ul><li> [x] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> | |
+
+[↑ topo](#índice)
+
+## ti2
+| TITULO | CODIGO | DATA | ALUNOS | PROFESSORES | Aprovado? | Melhor trabalho? | Patente? | Registro de Software? | Negócio? | CNPJ Parceiro |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Hardware Hub** | https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-2023-2-ti2-g31-hardwarehub | 2023-12-12 | Bruno Braga Guimarães Alves, João Victor Filardi, Gabriel Praes Bernardes Nunes, André Oliveira Quintão | Amália Vasconcelos, Wladmir Cardoso Brandão | <ul><li> [x] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> |<ul><li> [ ] </ul></li> | |
+
+[↑ topo](#índice)
