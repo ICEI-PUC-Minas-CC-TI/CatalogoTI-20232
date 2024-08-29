@@ -1,12 +1,13 @@
 # Catálogo de Trabalhos Interdisciplinares
+# Curso de Ciência da Computação
 
 ## Índice
-- [ti2](#ti2)
+- [TI2](#ti2)
 
 
 ## ti2
 * Professores:
-* Turma:ti2
+* Turma: TI2
 * Nome do GitHub Classroom (prefixo dos repositórios):PLMG-CC-2023-2-TI2
 
 | Projeto | GitHub repo | Aprovado? | Melhor trabalho? | Patente? | Registro de Software? | Negócio? | CNPJ Parceiro |
